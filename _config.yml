@@ -1,14 +1,28 @@
-layout_spectrum: 0.2271751
+name: Htn79
+favicon: null
+layout_spectrum: 0.34053
+typography_spectrum: 0.5257788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#F7FCF6'
     - '#6E5443'
     - '#D1D7D7'
     - '#141418'
     - '#323743'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.5257788
-name: Htn79
+purpose: []
